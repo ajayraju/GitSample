@@ -10,5 +10,7 @@ namespace GitSample
     {
         private int cost;
         private int quantity;
+        private int amount;
+        private string FirstName { get; set; }
     }
 }
